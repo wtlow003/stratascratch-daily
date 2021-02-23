@@ -7,8 +7,10 @@ Find the details of each customer regardless of whether the customer made an ord
 Output customer's first name, last name, and the city along with the corresponding order details.
 Sort records based on the customer's first name and the order details in ascending order.
 
-Tables'
-Customers idint
+Tables:
+
+Customers
+id int
 first_name varchar
 last_name varchar
 city varchar
@@ -28,4 +30,4 @@ SELECT c.first_name, c.last_name, c.city, o.order_details
 FROM customers c
 LEFT JOIN orders o
     ON c.id = o.cust_id
-ORDER BY 1,4 
+ORDER BY 1,4
