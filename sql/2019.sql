@@ -3,6 +3,8 @@
 Top 2 Users With Most Calls
 https://platform.stratascratch.com/coding/2019-top-2-users-with-most-calls?
 
+Difficulty: Medium
+
 Return the top 2 users in each company that called the most. Output the company_id, user_id, and the user's rank. If there are multiple users in the same rank, keep all of them.
 
 Tables:

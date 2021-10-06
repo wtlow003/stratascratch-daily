@@ -3,6 +3,8 @@
 Manager of the Largest Department
 https://platform.stratascratch.com/coding/2060-manager-of-the-largest-department?python=
 
+Difficulty: Medium
+
 Given a list of a company's employees, find the name of the manager from the largest department. Output their first and last name.
 
 Table:
