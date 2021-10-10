@@ -5,7 +5,7 @@ This repository contains solutions to questions which have been attempted on [St
 
 The practise schedule consists of tackling at least 1 *easy*, *medium*, and *hard* questions.
 
-## Completed Questions: ``
+## Completed Questions: `19`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |10073|[Favorite Host Nationality](https://platform.stratascratch.com/coding/10073-favorite-host-nationality?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10073.sql)
