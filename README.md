@@ -1,5 +1,4 @@
 # SQL Technical Interview Preparation
-Daily practise in preparation for SQL technical assessments.
 
 This repository contains solutions to questions which have been attempted on [StrataScratch](https://www.stratascratch.com) to hone my ability in tackling complex logic when tackling SQL technical interviews.
 
