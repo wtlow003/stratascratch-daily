@@ -4,7 +4,7 @@ This repository contains solutions to questions which have been attempted on [St
 
 The practise schedule consists of tackling at least 1 *easy*, *medium*, and *hard* questions.
 
-## Completed Questions: `19`
+## Completed Questions: `22`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |10073|[Favorite Host Nationality](https://platform.stratascratch.com/coding/10073-favorite-host-nationality?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10073.sql)
@@ -17,6 +17,9 @@ The practise schedule consists of tackling at least 1 *easy*, *medium*, and *har
 |10351|[Activity Rank](https://platform.stratascratch.com/coding/10351-activity-rank?python=)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10351.sql)
 |10352|[Users By Avg Session time](https://platform.stratascratch.com/coding/10352-users-by-avg-session-time?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10352.sql)
 |10353|[Workers With The Highest Salaries](https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10353.sql)
+|10302|[Distance Per Dollar](https://platform.stratascratch.com/coding/10302-distance-per-dollar?python=)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10302.sql)
+|10301|[Expensive Projects](https://platform.stratascratch.com/coding/10301-expensive-projects?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10301.sql)
+|2002|[Submission Types](https://platform.stratascratch.com/coding/2002-submission-types?python=)|Easy|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/2002.sql)
 |2007|[Rank Variance Per Country](https://platform.stratascratch.com/coding/2007-rank-variance-per-country?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/2007.sql)
 |2012|[Viewers Turned Streamers](https://platform.stratascratch.com/coding/2012-viewers-turned-streamers)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/2012.sql)
 |2019|[Top 2 Users With Most Calls](https://platform.stratascratch.com/coding/2019-top-2-users-with-most-calls?)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/2019.sql)
