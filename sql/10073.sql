@@ -40,25 +40,10 @@ age                     int
 
 -- retrieve the host nationality
 -- remove duplicates as well
-SELECT DISTINCT u.from_user,
-       h.nationality
-FROM (
-    -- select the particular reviews that were given the highest score for each user
-    SELECT r.*
-    FROM airbnb_reviews r
-    JOIN (
-        -- select the highest review given by each guest user
-        SELECT from_user,
-               MAX(review_score) AS highest_score
-        FROM airbnb_reviews
-        WHERE from_type = 'guest'
-        GROUP BY 1
-    ) highest_review_score
-        ON r.from_user = highest_review_score.from_user
-        AND r.review_score = highest_review_score.highest_score
-    -- ensure that score remains from a guest perspective
-    WHERE from_type = 'guest'
-) u
-JOIN airbnb_hosts h
-    ON u.to_user = h.host_id
-ORDER BY 1
+select distinct a.from_user,b.nationality
+from 
+(select from_user,to_user,review_score,
+rank() over(partition by from_user order by review_score desc) as rnk
+from airbnb_reviews
+where from_type = 'guest') a join airbnb_hosts b
+on a.to_user = b.host_id where rnk = 1
