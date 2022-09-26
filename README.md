@@ -1,13 +1,14 @@
 # SQL Technical Interview Preparation
 
 
+
 This repository contains solutions to questions which have been attempted on [StrataScratch](https://www.stratascratch.com) to hone my ability in tackling complex logic when tackling SQL technical interviews.
 
 The practise schedule consists of tackling at least 1 *easy*, *medium*, and *hard* questions.
 
 ## Completed Questions: `33`
-|  #  | Title | Difficulty 
-| Solution |
+
+|  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
 |10073|[Favorite Host Nationality](https://platform.stratascratch.com/coding/10073-favorite-host-nationality?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10073.sql)
 |10087|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10087.sql)
