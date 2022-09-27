@@ -6,12 +6,13 @@ This repository contains solutions to questions which have been attempted on [St
 
 The practise schedule consists of tackling at least 1 *easy*, *medium*, and *hard* questions.
 
-## Completed Questions: `33`
-
+## Completed Questions: `34`
 |  #  | Title | Difficulty | Solution |
 |:---:|:-----:|:----------:|:--------:|
+|10042|[Top 3 Wineries In The World](https://platform.stratascratch.com/coding/10042-top-3-wineries-in-the-world?code_type=1)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10042.sql)
 |10073|[Favorite Host Nationality](https://platform.stratascratch.com/coding/10073-favorite-host-nationality?python&utm_source=youtube&utm_medium=click&utm_campaign=YT+description+link)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10073.sql)
 |10087|[Find all posts which were reacted to with a heart](https://platform.stratascratch.com/coding/10087-find-all-posts-which-were-reacted-to-with-a-heart?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10087.sql)
+|10172|[Best Selling item](https://platform.stratascratch.com/coding/10172-best-selling-item?code_type=1)|Hard|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10172.sql)
 |10176|[Bikes Last Used](https://platform.stratascratch.com/coding/10176-bikes-last-used?python=)|Easy|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10176.sql)
 |10283|[Find the top-ranked songs for the past 30 years.](https://platform.stratascratch.com/coding/10283-find-the-top-ranked-songs-for-the-past-30-years?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10283.sql)
 |10295|[Most Active Users On Messenger](https://platform.stratascratch.com/coding/10295-most-active-users-on-messenger?python=)|Medium|[Link](https://github.com/wtlow003/stratascratch-daily/blob/main/sql/10295.sql)
